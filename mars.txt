@@ -1,1 +1,2 @@
 Mars is the target planet of this mission. 
+It is a long way away so the spaceship will need lots of fuel.
